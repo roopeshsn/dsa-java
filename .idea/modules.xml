@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1-java.iml" filepath="$PROJECT_DIR$/.idea/1-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary-search-algorithm/binary-search-algorithm.iml" filepath="$PROJECT_DIR$/binary-search-algorithm/binary-search-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubble-sort-algorithm/bubble-sort-algorithm.iml" filepath="$PROJECT_DIR$/bubble-sort-algorithm/bubble-sort-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyclic-sort-algorithm/cyclic-sort-algorithm.iml" filepath="$PROJECT_DIR$/cyclic-sort-algorithm/cyclic-sort-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-idea-program/first-idea-program.iml" filepath="$PROJECT_DIR$/first-idea-program/first-idea-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertion-sort-algorithm/insertion-sort-algorithm.iml" filepath="$PROJECT_DIR$/insertion-sort-algorithm/insertion-sort-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linear-search-algorithm/linear-search-algorithm.iml" filepath="$PROJECT_DIR$/linear-search-algorithm/linear-search-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maths-for-dsa/maths-for-dsa.iml" filepath="$PROJECT_DIR$/maths-for-dsa/maths-for-dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maths-programs/maths-programs.iml" filepath="$PROJECT_DIR$/maths-programs/maths-programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns/patterns.iml" filepath="$PROJECT_DIR$/patterns/patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selection-sort-algorithm/selection-sort-algorithm.iml" filepath="$PROJECT_DIR$/selection-sort-algorithm/selection-sort-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />
+    </modules>
+  </component>
+</project>
