@@ -4,20 +4,19 @@ public class Main {
 
     public static void main(String[] args) {
         SinglyLinkedList list = new SinglyLinkedList();
-        list.insertFirst(3);
-        list.insertFirst(5);
-        list.insertLast(21);
+        list.insertFirst(4);
+        list.insertFirst(4);
+        list.insertFirst(2);
+        list.insertFirst(1);
+        list.insertFirst(1);
+        // list.insertFirst(3);
         list.print();
-        list.curiosity();
-        list.insert(2, 76);
+        // list.insertUsingRecursion(7, 3);
         list.print();
-//        list.deleteFirst();
-//        list.printList();
-//        list.deleteLast();
-//        list.printList();
-        list.delete(2);
+        list.removeDuplicates();
         list.print();
-        System.out.println(list.find(3));
+//        System.out.println(list.getUsingRecursion(3));
+//        list.print();
     }
 }
 
