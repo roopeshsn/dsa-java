@@ -1,8 +1,9 @@
 package com.roopesh;
 
-public class Main {
+import static com.roopesh.Patterns.*;
 
+public class Main {
     public static void main(String[] args) {
-	// write your code here
+        pattern31(4);
     }
 }
