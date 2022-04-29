@@ -9,20 +9,20 @@ public class BubbleSort {
         System.out.println(Arrays.toString(arr));
     }
 
-    public static void bubble(int[] arr, int e, int s) {
-        if(e == 0) {
+    public static void bubble(int[] arr, int end, int start) {
+        if(end == 0) {
             return;
         }
 
-        if(s < e) {
-            if(arr[s] > arr[s+1]) {
-                int temp = arr[s];
-                arr[s] = arr[s+1];
-                arr[s+1] = temp;
+        if(start < end) {
+            if(arr[start] > arr[start+1]) {
+                int temp = arr[start];
+                arr[start] = arr[start+1];
+                arr[start+1] = temp;
             }
-            bubble(arr, e, s+1);
+            bubble(arr, end, start+1);
         } else {
-            bubble(arr, e-1, 0);
+            bubble(arr, end-1, 0);
         }
     }
 }
