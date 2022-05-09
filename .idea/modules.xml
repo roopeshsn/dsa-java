@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/first-idea-program/first-idea-program.iml" filepath="$PROJECT_DIR$/first-idea-program/first-idea-program.iml" />
       <module fileurl="file://$PROJECT_DIR$/insertion-sort-algorithm/insertion-sort-algorithm.iml" filepath="$PROJECT_DIR$/insertion-sort-algorithm/insertion-sort-algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/linear-search-algorithm/linear-search-algorithm.iml" filepath="$PROJECT_DIR$/linear-search-algorithm/linear-search-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linked-list/linked-list.iml" filepath="$PROJECT_DIR$/linked-list/linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/maths-for-dsa/maths-for-dsa.iml" filepath="$PROJECT_DIR$/maths-for-dsa/maths-for-dsa.iml" />
       <module fileurl="file://$PROJECT_DIR$/maths-programs/maths-programs.iml" filepath="$PROJECT_DIR$/maths-programs/maths-programs.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
