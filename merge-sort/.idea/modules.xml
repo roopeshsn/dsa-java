@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/tree.iml" filepath="$PROJECT_DIR$/tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/merge-sort.iml" filepath="$PROJECT_DIR$/merge-sort.iml" />
     </modules>
   </component>
 </project>
